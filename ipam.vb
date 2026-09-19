@@ -1,17 +1,5 @@
 Option Explicit
 
-Private Sub Label1_Click()
-
-End Sub
-
-Private Sub txtIP_Change()
-
-End Sub
-
-Private Sub txtLoc_Change()
-
-End Sub
-
 Private Sub UserForm_Initialize()
 
     With lstRecords
